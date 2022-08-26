@@ -25,11 +25,11 @@ public class Ex3 {
 			tempo = tempo - 60;
 		}
 
-		while (tempo < 60 && tempo >0) {
+		while (tempo < 60 && tempo > 0) {
 			segundo++;
 			tempo = tempo - 1;
 		}
-		
+
 		System.out.println("Horas: " + hora + " | Minutos: " + minuto + " | Segundos: " + segundo);
 
 		sc.close();
