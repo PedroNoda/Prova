@@ -1,6 +1,5 @@
 import java.util.Scanner;
-// Elabore um algoritmo q leia 5 valores inteiro 
-// e apresente na tela o maior e o menor deles
+
 public class Ex1 {
 	public static void main(String[] args) {
 	Scanner sc = new Scanner(System.in);
