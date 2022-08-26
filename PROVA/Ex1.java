@@ -1,5 +1,3 @@
-package Prova;
-
 import java.util.Scanner;
 // Elabore um algoritmo q leia 5 valores inteiro 
 // e apresente na tela o maior e o menor deles
