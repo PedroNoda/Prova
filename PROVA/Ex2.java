@@ -1,5 +1,3 @@
-package Prova;
-
 import java.util.Scanner;
 //Um 
 public class Ex2 {
@@ -11,10 +9,7 @@ public class Ex2 {
 		
 		while (ano <= 2022) {
 			salario += salario * porcentagem;
-			//System.out.println("ano" + ano);
-			//System.out.println("%" + porcentagem);
 			porcentagem = porcentagem * 2;
-			//System.out.printf("%.2f \n", salario);
 			ano++;
 		}
 		System.out.println("Salario 2022");
